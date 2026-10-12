@@ -54,3 +54,15 @@ Pumpenspezifikation: Volumenstrom 1,7 m³/s (≈ 26.930 gpm), Förderhöhe ≈ 3
 Dieses Repository dokumentiert die Auslegung. Berechnungsdateien und Fluent-Daten sind nicht enthalten, sofern nicht ausdrücklich ergänzt.
 
 Portfolio mit Abbildungen: <https://pouria-kamali.de/projekt-wasserkanal.php>
+
+## Abbildungen
+
+### Geometrie des geschlossenen Kreislaufs
+
+3D-Modell des Kanals aus 3D Experience (Kontraktion, Teststrecke, Diffusor und Umlenkbögen als ein geschlossener Kreislauf):
+
+![3D-Modell des Wasserdurchflusskanals](images/kanal_3d-modell.png)
+
+Draufsicht:
+
+![Draufsicht des Wasserdurchflusskanals](images/kanal_draufsicht.jpg)
